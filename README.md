@@ -82,4 +82,5 @@ the models’ effective learning and generalization capabilities, with the ANN m
 
 ### Conclusion:
 AI-DOT-BOT is designed to leverage the power of deep learning for predictive accuracy in options trading. With advanced models and comprehensive visualizations, it provides a robust framework for developing and analyzing trading strategies. Further development and incorporating more features for higher accuracy and better prediction is still a scope for the future. In future iterations, this project could incorporate live news sentiment analysis to enhance trading predictions. By integrating sentiment analysis of real-time news data, the system could dynamically adjust trading signals based on market sentiment, news events, and other external factors. This integration would enable the model to react to changing market conditions more effectively and potentially improve the accuracy of trading predictions. 
+
 _This project is still under development._
