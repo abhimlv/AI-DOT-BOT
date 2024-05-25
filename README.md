@@ -20,8 +20,8 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
 ### Visual Results and Analysis:
 1. **Line Plot and Box Plot after Preprocessing**: These plots help in visualizing the variation in data and identifying any noise present. They provide a clear understanding of data distribution and outliers.
    
-   ![Line and Box Plot](images/Line_plot.png)
-   ![Line and Box Plot](images/Box_Plot.png)
+   ![Line and Box Plot](images/Line-plot.png)
+   ![Line and Box Plot](images/Box-Plot.png)
 
 3. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
    
