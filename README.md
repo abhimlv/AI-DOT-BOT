@@ -56,8 +56,8 @@ the models’ effective learning and generalization capabilities, with the ANN m
    
    ![Generated Signals](images/Call-Put-Buy-Sell-Signals.png)
 
-The consistent alignment between the predictions of the Artificial Neural Network (ANN) and the Recurrent Neural Network (RNN) indicates a good performance across both models.
-Such resemblance in forecasts implies a good level of confidence in the models’ ability to capture and interpret patterns within the data.
+   The consistent alignment between the predictions of the Artificial Neural Network (ANN) and the Recurrent Neural Network (RNN) indicates a good performance across both models.
+   Such resemblance in forecasts implies a good level of confidence in the models’ ability to capture and interpret patterns within the data.
 
 ### How to Use:
 1. **Data Preparation**: Ensure your data is preprocessed and normalized using techniques like StandardScaler.
@@ -75,10 +75,10 @@ Such resemblance in forecasts implies a good level of confidence in the models�
 
 ### Running the Bot:
 1. **Preprocess the data**: Normalize and clean your input data.
-2. **Train the models**: Use the provided code to train ANN and RNN models.
+2. **Train the models**: Train ANN and RNN models.
 3. **Generate predictions**: Use the trained models to make predictions.
 4. **Visualize results**: Use the visualization functions to generate plots and analyze results.
 5. **Generate trading signals**: Use the predictions to generate buy/sell signals and plot them on the stock chart.
 
 ### Conclusion:
-AI-DOT-BOT is designed to leverage the power of deep learning for predictive accuracy in options trading. With advanced models and comprehensive visualizations, it provides a robust framework for developing and analyzing trading strategies.
+AI-DOT-BOT is designed to leverage the power of deep learning for predictive accuracy in options trading. With advanced models and comprehensive visualizations, it provides a robust framework for developing and analyzing trading strategies. Further development and incorporating more features for higher accuracy and better prediction is still a scope for the future. In future iterations, this project could incorporate live news sentiment analysis to enhance trading predictions. By integrating sentiment analysis of real-time news data, the system could dynamically adjust trading signals based on market sentiment, news events, and other external factors. This integration would enable the model to react to changing market conditions more effectively and potentially improve the accuracy of trading predictions. <u>Project is still under development.</u>
