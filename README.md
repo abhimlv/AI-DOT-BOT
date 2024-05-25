@@ -36,6 +36,7 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
    
    ![Training and Validation Loss Curve](images/RNN-Training-and-Val-Loss.png)
    ![Training and Validation Loss Curve](images/ANN-Training-and-Val-Loss.png)
+This provides insights into how well the model is learning from the training data and how well it generalizes to unseen data. A decreasing training loss indicates that the model is improving its fit to the training data over epochs, while the validation loss gives an indication of how well the model is performing on data it has not seen before. Ideally, both training and validation losses should decrease over time, indicating that the model is learning effectively without overfitting to the training data.
 
 8. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
    
