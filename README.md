@@ -21,19 +21,19 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
    ![Line and Box Plot](images/Line-plot.png)
    ![Line and Box Plot](images/Box-Plot.png)
 
-3. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
+2. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
    
    ![Model Architecture](images/ANN-Model-Architecture.png)
    ![Model Architecture](images/RNN-Model-Architecture.png)
 
-5. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
+3. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
    
    ![MAE and RMSE](images/MAE-&-RMSE-Values.png)
    
    Over 700 epochs, the ANN model achieves a decreasing loss trend, starting from 18146.8594 and converging to 0.8291, while the RNN model’s loss decreases from 18159.8281 to 3.8581 over 200 epochs. Lower validation loss values for both models (0.8663 for ANN and 4.4566 for RNN) indicate effective generalization to unseen data. In terms of evaluation metrics, the ANN model yields an MAE of 0.37 and RMSE of 0.47, while the RNN model has an MAE of 1.18 and RMSE of 1.58. These values signify that the ANN model exhibits superior predictive accuracy and precision compared to the RNN model. Overall, the decreasing loss trends and relatively low validation loss values underscore
 the models’ effective learning and generalization capabilities, with the ANN model outperforming the RNN model in predictive accuracy.
 
-7. **Training and Validation Loss Curve**: This plot shows the loss during training and validation phases, helping to understand if the model is overfitting or underfitting.
+4. **Training and Validation Loss Curve**: This plot shows the loss during training and validation phases, helping to understand if the model is overfitting or underfitting.
    
    ![Training and Validation Loss Curve](images/RNN-Training-and-Val-Loss.png)
    
@@ -41,18 +41,18 @@ the models’ effective learning and generalization capabilities, with the ANN m
 
    ![Training and Validation Loss Curve](images/ANN-Training-and-Val-Loss.png)
 
-9. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
+5. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
    
    ![Actual vs Predicted Histogram](images/Actual-vs-Predicted-Values.png)
    
    Ideally, the histograms of actual and predicted values should overlap closely, indicating that the model’s predictions align well with the actual outcomes.
    Differences between the histograms may highlight areas where the model struggles to accurately predict certain values.
 
-11. **Line Graph of ANN and RNN Predictions**: This graph compares the predictions made by the ANN and RNN models against the actual values over time.
+6. **Line Graph of ANN and RNN Predictions**: This graph compares the predictions made by the ANN and RNN models against the actual values over time.
    
-   ![ANN and RNN Predictions](images/Predictions3.png)
+      ![ANN and RNN Predictions](images/Predictions3.png)
 
-11. **Plotted Generated Signals on Stock Chart**: Visual representation of the generated buy-only signals (for now) overlaid on the stock price chart for the given period. This helps in understanding the timing and effectiveness of the trading signals. Green triangles indicate suggested call option purchases, while red triangles represent opportunities to buy put options.
+7. **Plotted Generated Signals on Stock Chart**: Visual representation of the generated buy-only signals (for now) overlaid on the stock price chart for the given period. This helps in understanding the timing and effectiveness of the trading signals. Green triangles indicate suggested call option purchases, while red triangles represent opportunities to buy put options.
    
    ![Generated Signals](images/Call-Put-Buy-Sell-Signals.png)
 
