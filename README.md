@@ -20,29 +20,30 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
 ### Visual Results and Analysis:
 1. **Line Plot and Box Plot after Preprocessing**: These plots help in visualizing the variation in data and identifying any noise present. They provide a clear understanding of data distribution and outliers.
    
-   ![Line and Box Plot](images/line_box_plot.png)
+   ![Line and Box Plot](images/Line_plot.png)
+   ![Line and Box Plot](images/Box_Plot.png)
 
-2. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
+3. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
    
    ![Model Architecture](images/model_architecture.png)
 
-3. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
+4. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
    
    ![MAE and RMSE](images/mae_rmse.png)
 
-4. **Training and Validation Loss Curve**: This plot shows the loss during training and validation phases, helping to understand if the model is overfitting or underfitting.
+5. **Training and Validation Loss Curve**: This plot shows the loss during training and validation phases, helping to understand if the model is overfitting or underfitting.
    
    ![Training and Validation Loss Curve](images/training_val_loss.png)
 
-5. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
+6. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
    
    ![Actual vs Predicted Histogram](images/actual_vs_predicted_histogram.png)
 
-6. **Line Graph of ANN and RNN Predictions**: This graph compares the predictions made by the ANN and RNN models against the actual values over time.
+7. **Line Graph of ANN and RNN Predictions**: This graph compares the predictions made by the ANN and RNN models against the actual values over time.
    
    ![ANN and RNN Predictions](images/ann_rnn_predictions.png)
 
-7. **Plotted Generated Signals on Stock Chart**: Visual representation of the generated buy/sell signals overlaid on the stock price chart for the given period. This helps in understanding the timing and effectiveness of the trading signals.
+8. **Plotted Generated Signals on Stock Chart**: Visual representation of the generated buy/sell signals overlaid on the stock price chart for the given period. This helps in understanding the timing and effectiveness of the trading signals.
    
    ![Generated Signals](images/generated_signals.png)
 
