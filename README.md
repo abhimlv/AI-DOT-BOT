@@ -25,8 +25,8 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
 
 3. **ANN and RNN Model Architecture**: Visual representations of the model architectures used in the bot. These diagrams illustrate the layers and connections in the ANN and RNN models.
    
-   ![Model Architecture](images/ANN_Model_Architecture.png)
-   ![Model Architecture](images/RNN_Model_Architecture.png)
+   ![Model Architecture](images/ANN-Model-Architecture.png)
+   ![Model Architecture](images/RNN-Model-Architecture.png)
 
 5. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
    
