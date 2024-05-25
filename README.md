@@ -29,6 +29,7 @@ Artificial Intelligence Driven Options Trading Bot incorporates highly developed
 5. **MAE and RMSE Values**: Displaying the Mean Absolute Error and Root Mean Squared Error values to evaluate the model's performance. Lower values indicate better accuracy.
    
    ![MAE and RMSE](images/MAE-&-RMSE-Values.png)
+   
 Over 700 epochs, the ANN model achieves a decreasing loss trend, starting from 18146.8594 and converging to 0.8291, while the RNN model’s loss decreases from 18159.8281 to 3.8581 over 200 epochs. Lower validation loss values for both models (0.8663 for ANN and 4.4566 for RNN) indicate effective generalization to unseen data. In terms of evaluation metrics, the ANN model yields an MAE of 0.37 and RMSE of 0.47, while the RNN model has an MAE of 1.18 and RMSE of 1.58. These values signify that the ANN model exhibits superior predictive accuracy and precision compared to the RNN model. Overall, the decreasing loss trends and relatively low validation loss values underscore
 the models’ effective learning and generalization capabilities, with the ANN model outperforming the RNN model in predictive accuracy.
 
@@ -43,6 +44,7 @@ This provides insights into how well the model is learning from the training dat
 9. **Histogram of Actual vs Predicted Values**: A histogram comparing the actual and predicted values to visualize the distribution and accuracy of the model's predictions.
    
    ![Actual vs Predicted Histogram](images/Actual-vs-Predicted-Values.png)
+   
 Ideally, the histograms of actual and predicted values should overlap closely, indicating that the model’s predictions align well with the actual outcomes.
 Differences between the histograms may highlight areas where the model struggles to accurately predict certain values.
 
